@@ -16,7 +16,7 @@ from telegram.ext import (
 )
 
 # --- الإعدادات ---
-TOKEN = "TOKEN"  # ضع التوكن الخاص بك
+TOKEN = "8695370562:AAGBkpBtxzY5BslA-L0CCA6tkZo-Bp-RtKw"  # ضع التوكن الخاص بك
 VOICE_LIST = {
     "ar-sa-hamed": ("ar-SA-HamedNeural", "🔊 سعودي رجالي فخم"),
     "ar-sa-zariyah": ("ar-SA-ZariyahNeural", "🔊 سعودي نسائي واضح"),
